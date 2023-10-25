@@ -17,6 +17,7 @@
 - **Conference Dates:** June 17-21, 2024
 - **Location:** Seattle, USA
 - **CORE Ranking:** A*
+- **Expected Acceptance Rate:** ~25%
 - **Link:** [Website](https://cvpr.thecvf.com/)
 
 ---
@@ -26,6 +27,7 @@
 - **Conference Dates:** June 2-5, 2024
 - **Location:** Jeju, South Korea
 - **CORE Ranking:** B
+- **Expected Acceptance Rate:** ~60%
 - **Link:** [Website](https://www.ieee-iv.org/2024/)
 
 ---
@@ -35,6 +37,7 @@
 - **Conference Dates:** September 29 - October 4, 2024
 - **Location:** Milan, Italy
 - **CORE Ranking:** A*
+- **Expected Acceptance Rate:** ~28%
 - **Link:** [Website](https://eccv2024.ecva.net)
 
 ---
@@ -44,6 +47,7 @@
 - **Conference Dates:** October 14-18, 2024
 - **Location:** Abu Dhabi, UAE
 - **CORE Ranking:** A
+- **Expected Acceptance Rate:** ~45%
 - **Link:** [Website](http://iros2024-abudhabi.org)
 
 ---
@@ -53,6 +57,7 @@
 - **Conference Dates:** December 8-12, 2024
 - **Location:** Hanoi, Vietnam
 - **CORE Ranking:** B
+- **Expected Acceptance Rate:** ~33%
 - **Link:** [Website](https://accv2024.org)
 
 ## Archived

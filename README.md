@@ -1,4 +1,4 @@
-# Computer Vision (and related Robotics/Intelligent Vehicles) Conferences
+# CVCalendar
 
 This list provides information on upcoming conferences in the fields of Computer Vision, Robotics, and Intelligent Vehicles. The CORE ranking is used to evaluate the academic quality of each conference. For more information on CORE rankings, please visit the [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/).
 
